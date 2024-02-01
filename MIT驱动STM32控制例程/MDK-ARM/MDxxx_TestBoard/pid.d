@@ -1,0 +1,10 @@
+mdxxx_testboard\pid.o: ..\Src\pid.c
+mdxxx_testboard\pid.o: ../Inc/pid.h
+mdxxx_testboard\pid.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32F0xx_hal.h
+mdxxx_testboard\pid.o: ../Inc/stm32f0xx_hal_conf.h
+mdxxx_testboard\pid.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc.h
+mdxxx_testboard\pid.o: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h
+mdxxx_testboard\pid.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
+mdxxx_testboard\pid.o: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f042x6.h
+mdxxx_testboard\pid.o: ../Drivers/CMSIS/Include/core_cm0.h
+mdxxx_testboard\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
